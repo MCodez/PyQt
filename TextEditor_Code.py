@@ -1,3 +1,8 @@
+''' This code is developed by 
+LALIT ARORA 
+IDE:  SPYDER
+ANACONDA Distribution
+'''
 import sys
 from PyQt5.QtWidgets import QMainWindow, QTextEdit, QAction, QApplication,QMessageBox,QFileDialog
 from PyQt5.QtGui import QIcon
