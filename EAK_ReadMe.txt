@@ -15,4 +15,6 @@ Future Prospects:
 1. Removal of Bugs
 2. Dynamic Allocation of Components on Software Window 
 
+Special Help:
+Qt Creator 4.3.0 -> Qt Designer 4.3.0
 Project is in Progress...
