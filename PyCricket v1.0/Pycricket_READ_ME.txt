@@ -22,3 +22,8 @@ Software & their Version:
 4. twilio Library
 
 Libraries can be easily installed by: pip install <package_name>
+
+Updated:  Now Messaging is integrated with the GUI.
+Before sending Message,
+1. Verify the recipient number on twilio.com
+2. Add proper prefix like +91 for INDIA
