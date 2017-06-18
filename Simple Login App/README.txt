@@ -9,8 +9,7 @@ Pre Requestives :
 
 Anaconda Distribution is recommended because one can find a good IDE (Spyder) for Python in this Distribution with lot of pre installed libraries. "sqlite3" library is pre installed in Anaconda Distribution
 
-DB Browser for SQLite for Windows is a Desktop App (Windows software), needed to make databases and have a visuals of created databses,tables and their data in a software.We will use this software to check the changes occured by Python code in Sqlite Databses Tables. Download it from here: http://sqlitebrowser.org/
-
+ 
 Tutorial: This tutorial is a "Simple Login Windows App" where user enters Username and Password. If username and password is there in database, MessageBox will say Successful Login else Message Box will say Invalid Username and Password.
 
 Database file and Python Code is enclosed with this README File.
